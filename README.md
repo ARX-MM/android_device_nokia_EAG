@@ -1,1 +1,1 @@
-# android_device_nokia_eag
+Device tree for Nokia 3.1 A (EAG). WIP.
